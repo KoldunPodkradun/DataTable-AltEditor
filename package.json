@@ -1,9 +1,11 @@
 {
   "author": {
-    "name": "KasperOlesen",
+    "name": "kingkode",
     "url": "http://kingkode.com/free-datatables-editor-alternative"
   },
   "contributors": [{
+    "name": "KasperOlesen"
+  } , { 
     "name": "luca-vercelli"
   } , {
     "name": "zack-hable"
@@ -23,5 +25,5 @@
     "type": "git",
     "url": "github.com:ZaDarkSide/DataTable-AltEditor.git"
   },
-  "version": "1.6.5"
+  "version": "1.6.6"
 }
